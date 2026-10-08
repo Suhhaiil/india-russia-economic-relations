@@ -44,29 +44,19 @@ Additional contextual sources include the Ministry of External Affairs, Governme
 06_Report/
 07_References/
 08_Final/
-
-## Outputs
-
-### Excel
+Outputs
+Excel
 The Excel workbook contains the cleaned dataset, calculations, PivotTable, charts and data dictionary.
-
-### Python
+Python
 Python analysis includes the Jupyter Notebook, analytical CSV dataset and supporting visualisations.
-
-### Power BI
+Power BI
 The Power BI dashboard presents key indicators including total trade, exports, imports, trade balance, year-on-year trade growth and import share.
-
-### Research Report
+Research Report
 The final research report presents the methodology, findings, energy context, policy implications and limitations of the analysis.
-
-## Limitations
-
+Limitations
 The analysis focuses on bilateral merchandise trade and does not quantitatively cover services, foreign direct investment or the full range of India–Russia economic cooperation.
-
 The analysis is descriptive rather than causal and therefore does not establish direct causal relationships between geopolitical developments and trade outcomes.
-
-## Author
-
-**Suhail Alam**
-
-Independent Research & Data Analytics Project  
+Author
+Suhail Alam
+Independent Research & Data Analytics Project
+Political Science | International Relations | Public Policy
